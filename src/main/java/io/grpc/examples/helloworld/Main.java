@@ -11,7 +11,7 @@ public class Main {
 
 	/**
 	 * Main launches the server from the command line.
-	 * 
+	 *
 	 * @throws IOException
 	 * @throws InterruptedException
 	 */

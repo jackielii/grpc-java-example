@@ -1,0 +1,4 @@
+{
+  "java.trace.server": "verbose",
+  "java.autobuild.enabled": false
+}
