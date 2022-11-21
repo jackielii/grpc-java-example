@@ -21,5 +21,7 @@ Params: [
 ]
    ```
 
-Init workspace will clean out the source code
+Init workspace will clean out the source code. the `java.autobuild.enabled`
+will set the `initializationOptions.settings.java.autobuild.enabled` to
+`false`. You can check by inspecting `java.output`
 
